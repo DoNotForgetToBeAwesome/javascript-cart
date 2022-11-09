@@ -377,7 +377,7 @@ footer img {
 
     .products article {
         width: 80%;
-        height: 35rem;
+        height: auto;
         align-items: center;
         text-align: center;
     }
